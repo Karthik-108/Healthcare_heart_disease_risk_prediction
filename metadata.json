@@ -1,0 +1,6 @@
+{
+  "name": "CardioSense AI",
+  "description": "Educational heart-disease screening and risk-assessment platform powered by CDC BRFSS 2021 machine learning models and SHAP explainability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
